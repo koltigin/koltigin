@@ -1,5 +1,5 @@
 # Who is MehmetKoltigin?
-He is a Biologist, Gann analyst, blockchain enthusiast, researcher, content creator. Everything is for decentralization...
+He is a Biologist, Gann analyst, blockchain enthusiast, researcher, content creator and node runner. Everything is for decentralization...
 
 ## Education and Hobbies
 I’m a Biologist (PhD in Zoology) from Turkey, working on freshwater amphipods and I’m a bibliophile. I like to read history, especially pre-Islamic Turkish history. I'm a former PHP Fusion Turkey mod; I have written many extensions for PHP Fusion CMS. I like codes. I like use photoshop, illustrator and premiere. Especially I use illustrator to draw the extremities (limb) of amphipods.
