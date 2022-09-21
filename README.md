@@ -7,9 +7,9 @@ I’m a Biologist (PhD in Zoology) from Turkey, working on freshwater amphipods 
 Nowadays, I'm researching new ecosystems and I create content about them on [Medium](https://medium.com/@mehmetkoltigin) and join their testnets.
 
 ## History of Cryptocurrency and Blockchain
-I have been interested in the cryptocurrency market since 2019. I use Gann analysis and I’m node runner and investor and tester and I have started to to set up node since March 2022. I'm currently running more than 10 nodes. This is not difficult for me as I love codes and linux. I believe life is a school and we learn and will continue to learn new things every day. Since the day I started this adventure, I have improved myself a lot. I see it as a task to support new ecosystems and contribute to their development. Because I believe in a decentralized world.
+I have been interested in the cryptocurrency market since 2019. I use Gann analysis and I’m node runner and investor and tester and I have started to to set up node since March 2022. I'm currently running more than 10 nodes. I see it as a task to support new ecosystems and contribute to their development. Because I believe in a decentralized world.
 
-I have run many nodes and continue to practice (Aptos Devnet, CrowdControl, Forta, Gitopia, GNO Land, Iron Fish, Humanode, Kujira, Minima, Paloma, Quai, QuickSilver, Razor, Sei, Stafi, Stride, Subspace, Teritori ) my goal is to be a true part of projects as a validator on the mainnet. One day I will definitely be the first mainnet validator.
+I have run many nodes and continue to practice (Aptos Devnet, CrowdControl, Forta, Gitopia, GNO Land, Iron Fish, Humanode, Kujira, Minima, Paloma, Quai, QuickSilver, Razor, Sei, Stafi, Stride, Subspace, Teritori) my goal is to be a true part of projects as a validator on the mainnet. One day I will definitely be the first mainnet validator.
 
 ## Contact
 * [Twitter](https://twitter.com/mehmetkoltigin)
