@@ -18,6 +18,4 @@ I have run many nodes and continue to practice (Aptos Devnet, CrowdControl, Fort
 * [Instagram](https://www.instagram.com/mehmetkoltigin/)
 * [Reddit](https://www.reddit.com/user/MehmetKolTigin)
 * [Telegram](https://t.me/mehmetkoltigin)
-* [Rues Community Discord](https://discord.gg/UyyCZu5dnC)
-* [Rues Community Telegram](https://t.me/RuesChat)
-* [Rues Community Forum](https://forum.rues.info/index.php?members/mehmetkoltigin.284/)
+* [YouTube](https://www.youtube.com/channel/UCmLgaftx5e38BE0E7gpY2dA)
