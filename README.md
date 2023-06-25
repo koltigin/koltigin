@@ -12,6 +12,9 @@ I have been interested in the cryptocurrency market since 2019. I use Gann analy
 I have run many nodes and continue to practice (Aptos Devnet, CrowdControl, Forta, Gitopia, GNO Land, Iron Fish, Humanode, Kujira, Minima, Paloma, Quai, QuickSilver, Razor, Sei, Stafi, Stride, Subspace, Teritori) my goal is to be a true part of projects as a validator on the mainnet. One day I will definitely be the first mainnet validator.
 I have run many nodes and I continue to practice (Aptos Devnet, Aleph Zero, Bifrost, Bundlr, Crowd Control, Exorde, Empower Chain, Forta, Gaia, GNO Land, Iron Fish, Humanode, Inery, Kujira, Massa, Minima, Newrl, NuLink, Paloma, Q Blockchain, QuickSilver, Razor, Rebus, Sei, StaFi, Stratos (Trapos-4 & SDS), Stride, Subspace, Teritori, Wormholes). And we have mainnet validators (Jackal, Rebus, Stride and Forta) as Anatolian Team.
 
+## Active Testnets
+Coming soon...
+
 ## Contact
 
 <br/>
@@ -35,7 +38,7 @@ I have run many nodes and I continue to practice (Aptos Devnet, Aleph Zero, Bifr
 </p>
 
 # Anatolian Team
-[![Anatolian-Team-GitHub-Banner](/profile/static/Anatolian-Team-GitHub-Banner-N.jpg)](https://anatolianteam.com/)
+<a href="https://anatolianteam.com/"><img src="/static/Anatolian-Team-GitHub-Banner.jpg" /></a>
 ## 🙋 Participating in the community
 
 <br/>
