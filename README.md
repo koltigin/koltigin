@@ -49,7 +49,7 @@ Coming soon...
   &nbsp; &nbsp;
   <a href="https://t.me/AnatolianTeam"><img src="/static/telegram.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/company/"><img src="/static/linkedin.svg" width="64" /></a>
+  <a href="https://www.linkedin.com/company/anatolianteam"><img src="/static/linkedin.svg" width="64" /></a>
   &nbsp; &nbsp;
   <a href="https://twitter.com/AnatolianTeam"><img src="/static/twitter.svg" width="64" /></a>
   &nbsp; &nbsp;
