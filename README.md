@@ -13,19 +13,47 @@ I have run many nodes and continue to practice (Aptos Devnet, CrowdControl, Fort
 I have run many nodes and I continue to practice (Aptos Devnet, Aleph Zero, Bifrost, Bundlr, Crowd Control, Exorde, Empower Chain, Forta, Gaia, GNO Land, Iron Fish, Humanode, Inery, Kujira, Massa, Minima, Newrl, NuLink, Paloma, Q Blockchain, QuickSilver, Razor, Rebus, Sei, StaFi, Stratos (Trapos-4 & SDS), Stride, Subspace, Teritori, Wormholes). And we have mainnet validators (Jackal, Rebus, Stride and Forta) as Anatolian Team.
 
 ## Contact
-* [Twitter](https://twitter.com/mehmetkoltigin)
-* [Medium](https://medium.com/@mehmetkoltigin)
-* [Discord](https://discordapp.com/users/837933958280904737)
-* [Instagram](https://www.instagram.com/mehmetkoltigin/)
-* [Reddit](https://www.reddit.com/user/MehmetKolTigin)
-* [Telegram](https://t.me/mehmetkoltigin)
-* [YouTube](https://www.youtube.com/channel/UCmLgaftx5e38BE0E7gpY2dA)
 
-## Anatolian Team
-* [Website](http://anatolianteam.com/)
-* [Twitter](https://twitter.com/AnatolianTeam)
-* [YouTube](https://www.youtube.com/channel/UCARaVT57jv7PPHDo0bs0mlA?sub_confirmation=1)
-* [GitHub](https://github.com/AnatolianTeam)
-* [Medium](https://medium.com/@anatolianteam)
-* [Instagram](https://www.instagram.com/anatolianteam/)
-* [Reddit](https://www.reddit.com/r/AnatolianTeam/)
+<br/>
+
+<p align="center">
+  <a href="https://discordapp.com/users/837933958280904737"><img src="/static/discord.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://t.me/mehmetkoltigin"><img src="/static/telegram.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://t.me/AnatolianTeam"><img src="/static/telegram.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/company/"><img src="/static/linkedin.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://twitter.com/mehmetkoltigin"><img src="/static/twitter.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://medium.com/@mehmetkoltigin"><img src="/static/medium.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.youtube.com/@mehmetkoltigin"><img src="/static/youtube.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.reddit.com/user/MehmetKolTigin" target="_blank" rel="noopener noreferrer"><img src="/static/reddit.svg" width="64" /></a>  
+</p>
+
+# Anatolian Team
+[![Anatolian-Team-GitHub-Banner](/profile/static/Anatolian-Team-GitHub-Banner-N.jpg)](https://anatolianteam.com/)
+## 🙋 Participating in the community
+
+<br/>
+
+<p align="center">
+  <a href="https://discord.gg/AnatolianTeam#9538"><img src="/static/discord.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://t.me/AnatolianTeamduyuru"><img src="/static/telegram.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://t.me/AnatolianTeam"><img src="/static/telegram.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/company/"><img src="/static/linkedin.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://twitter.com/AnatolianTeam"><img src="/static/twitter.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://medium.com/AnatolianTeam"><img src="/static/medium.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.youtube.com/@AnatolianTeam"><img src="/static/youtube.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.reddit.com/r/AnatolianTeam" target="_blank" rel="noopener noreferrer"><img src="/static/reddit.svg" width="64" /></a>  
+</p>
