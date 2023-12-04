@@ -1,15 +1,15 @@
-# Who is MehmetKoltigin?
-Biologist, Gann analyst, blockchain enthusiast, researcher, content creator node runner and Co-Founder of the [Anatolian Team](https://github.com/AnatolianTeam). Everything is for decentralization...
+# Who is KolTigin?
+Biologist, Gann analyst, blockchain enthusiast, researcher, content creator, node runner and Co-Founder of the [Anatolian Team](https://github.com/AnatolianTeam). Everything is for decentralization...
 
 ## Education and Hobbies
-I’m a Biologist (PhD in Zoology) from Turkey, working on freshwater amphipods and I’m a bibliophile. I like to read history, especially pre-Islamic Turkish history. I'm a former PHP Fusion Turkey mod; I have written many extensions for PHP Fusion CMS. I like codes. I like use photoshop, illustrator and premiere. Especially I use illustrator to draw the extremities (limb) of amphipods.
+I’m a Biologist (PhD in Zoology) from Turkey, working on freshwater amphipods and I’m a bibliophile. I like to read history, especially pre-Islamic Turkish history. I'm a former PHP Fusion Turkey mod; I have written many extensions for PHP Fusion CMS. I like codes. I like use photoshop, illustrator and premiere and I create content using them.
 
 I'm researching new ecosystems and I create content about them on [Medium](https://medium.com/@mehmetkoltigin) and join their testnets.
 
 ## History of Cryptocurrency and Blockchain
-I have been interested in the cryptocurrency market since 2019. I use Gann analysis and I’m node runner and investor and tester. I'm currently running more than 10 nodes. I see it as a task to support new ecosystems and contribute to their development. Because I believe in a decentralized world.
+I have been interested in the cryptocurrency market since 2019. I use Gann analysis and I’m node runner and investor and tester. I'm currently running more than 50 nodes. I see it as a task to support new ecosystems and contribute to their development. Because I believe in a decentralized world and I hope this happens.
 
-I have run many nodes and I continue to practice (Aptos Devnet, Aleph Zero, Bifrost, Bundlr, Crowd Control, Exorde, Empower Chain, Forta, Gaia, GNO Land, Iron Fish, Humanode, Inery, Kujira, Massa, Minima, Newrl, NuLink, Paloma, Q Blockchain, QuickSilver, Razor, Rebus, Sei, StaFi, Stratos (Trapos-4 & SDS), Stride, Subspace, Teritori, Wormholes). And we have mainnet validators (Jackal, Rebus, Stride and Forta) as Anatolian Team.
+I have run many nodes and I continue to practice (Aptos Devnet, Aleph Zero, Bifrost, Crowd Control, Erbie (formerly Wormholes) Exorde, Empower Chain, Forta, Gaia, GNO Land, Iron Fish, Irys (formerly Bundlr), Humanode, Inery, Kujira, Mars Network, Massa, Minima, Newrl, NuLink, Paloma, Lumoz (formerly Opside), Q Blockchain, Quasar, QuickSilver, Razor, Rebus, Sei, StaFi, Stratos (Trapos-4 & SDS), Stride, Subspace, Teritori, Wormholes). And we have mainnet validators (Jackal, Rebus, Stride and Forta) as Anatolian Team.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
