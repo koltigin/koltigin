@@ -10,7 +10,7 @@ Finally, my real goal is to be a Dairy Philosopher :)
 I've run over 40 nodes so far. And I'm waiting for new projects.<br />
 Celestia (Blockspacerace Light Node), Aptos Devnet, Aleph Zero, Bifrost, Crowd Control, Erbie (formerly Wormholes) Exorde, Empower Chain, Forta, Gaia, GNO Land, Iron Fish, Irys (formerly Bundlr), Humanode, Inery, Kujira, Mars Network, Massa, Minima, Newrl, NuLink, Paloma, Lumoz (formerly Opside), Q Blockchain, Quasar, QuickSilver, Razor, Rebus, Sei, StaFi, Stratos (Trapos-4 & SDS), Stride, Subspace, Teritori, Wormholes. 
 
-And we have mainnet validator (Jackal, Rebus, Acre, Q Network), governor (Stride) as Anatolian Team.
+And we have mainnet validator (Arable Protocol, Cross Finance, Empower Chain, Jackal Protocol, Penumbra Zone, Q Blockchain, Rebus Chain, Uptick Network), and governor (Stride Zone) as Anatolian Team.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
